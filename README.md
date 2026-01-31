@@ -74,7 +74,7 @@ Libraries Used:
 Customer_segmentation/
 |
 
-|-- customer_segmentation.py
+|-- app.py
 
 |-- dataset/
 
