@@ -73,8 +73,11 @@ Libraries Used:
 
 Customer_segmentation/
 |
+
 |-- customer_segmentation.py
+
 |-- dataset/
+
 |-- README.md
 
 ---
